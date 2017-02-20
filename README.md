@@ -40,7 +40,7 @@
      	 4.复杂ui设计 实现
      	 5.动画 贝塞尔曲线 coreAnimation AsyncDisplay
      	 6.autolayout 布局 
-     	 7.了解html css 以及 iOS与js的交互
+     	 7.熟悉html css 以及 iOS与js的交互
 🐵1<<1 : 1.常年使用swift开发
      	 2.熟悉Objective-C
      	 
