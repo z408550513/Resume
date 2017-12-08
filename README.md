@@ -11,20 +11,23 @@
 ```
 👑 职位：iOS高级开发工程师 - 我算上加班时间,都有5年了
 👑 工作性质 : 全职 - 全心全意,尽职尽责 不信你看↓
-👑 到岗时间 : 两周内 - 没办法,公司几个项目压着,想走也走不了
+👑 到岗时间 : 猜不透 - 没办法,公司几个项目压着,想走也没那么快
 👑 技术博客 ：https://github.com/z408550513
 
 ```
 
 ###码农生涯
 ```
-菩提树网络科技有限公司 工作时间：2016.3-至今 。 开发app：
+广东玉扳手科技有限公司 工作时间：2017.4-至今 。 开发app：
+0x01 : 玉扳手 - 建筑行业人才设备信息平台App
+
+菩提树网络科技有限公司 工作时间：2016.3-2017.3 。 开发app：
 0x01 : 通惠购 - 大型商城类App
 0x02 : 珠江电力燃料 - 小众煤类商品商城App
 0x03 : 1号银 - 贵金属交易平台App
-0x04 : 玉扳手 - 建筑行业人才设备信息平台App
 
-佛山市啊啪啪科技有限公司 工作时间：2014.3-2016.2 离职原因：公司资金周转不足。 
+
+佛山市啊啪啪科技有限公司 工作时间：2015.11-2016.2 离职原因：公司资金周转不足。 
 开发app： 前期都是做公司接的外包的app 主要负责学习搭建ui 更深入学习开发 
 参与度较低 后期开发食神厨房：智能家居类-智能厨具App
 
@@ -42,9 +45,12 @@
      	 
 🐵1<<1 : 1.常年使用swift开发
      	 2.精通Objective-C
+     	 3.数据javaEE
      	 
 🐵1<<2 : 熟悉ReactiveCocoa 
-🐵1<<3 : 了解html5
+🐵1<<3 : 熟悉[html5,javaScript,css3] 熟悉 [jQuery,Vue.js,weex]
+🐵1<<4 : 熟悉[javaEE, Maven,spring, springMVC,MyBatis,Redis,mysql]
+🐵1<<5 : 熟悉[Tomcat,Nginx,Linux]
 ```
 
 
@@ -84,12 +90,15 @@
 0x04: 玉扳手 - 建筑行业人才设备信息平台App
      职责描述：团队开发 (前端和后台都在开发中)
      			*新版本开发 基本上都是我一个在做iOS端*
+     			*新增PC Web页面及接口*
      技术要点：1.日历
      			2.搜索算法
      			3.我对网络框架封装了4层,保留最后的处理数据Block
      			4.表单处理,研究新的写法,抽出DataSource层,方便做数据保存和回滚, 还有...如果新增字段,5分钟改需求
      			5.扩展kvc,保证数据类型不匹配时不会闪退
-     			6.持续更新中...
+     			6.写接口(java)
+     			
+     	
          
 ```
 
@@ -102,7 +111,7 @@
 
 [计算沙盒缓存大小和清除的工具](https://github.com/z408550513/ZeroCacheTool) https://github.com/z408550513/ZeroCacheTool
 
-[封装 方法替换的函数(内涵3.0版本的dispath_once)](https://github.com/z408550513/ZeroMethodSwizzling) https://github.com/z408550513/ZeroMethodSwizzling
+[封装 方法替换的函数(内含swift3.0版本的dispath_once)](https://github.com/z408550513/ZeroMethodSwizzling) https://github.com/z408550513/ZeroMethodSwizzling
 
 
 ###我是好人
